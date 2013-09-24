@@ -1,4 +1,4 @@
-## Good example to add abstraction to use Reader interface to provide implementation
+##  Good example of abstraction to use Reader interface with implementation
 based on StringReader, FileReader to read file contents line by line.
 
 It also uses a Janitor class which implements the HasCleanup interface to
