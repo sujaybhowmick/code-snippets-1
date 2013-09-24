@@ -1,0 +1,8 @@
+target
+*.log
+*.*~
+.idea
+code-snippets-1.iml
+*.class
+build
+.gradle
